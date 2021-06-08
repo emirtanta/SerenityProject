@@ -1,0 +1,80 @@
+﻿@using SerenityProject.EntityLayer.Entities
+@model List<Member>
+
+@{
+    ViewBag.Title = "MemberList";
+}
+
+<h2>MemberList</h2>
+
+<p>
+    @Html.ActionLink("New Member", "MemberCreate")
+</p>
+
+@if (Model.Count == null)
+{
+    <h1>No Data</h1>
+}
+
+else
+{
+    <table class="table table-striped table-responsive">
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Surname
+            </th>
+            <th>
+                Birth Date
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Password
+            </th>
+            <th>
+                Phone Number
+            </th>
+            <th>
+                Address
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Birthdate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adress)
+                </td>
+                <td>
+                    @Html.ActionLink("Update", "MemberEdit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "MemberDelete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+

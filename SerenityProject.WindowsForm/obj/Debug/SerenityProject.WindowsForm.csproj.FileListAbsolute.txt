@@ -1,0 +1,14 @@
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\bin\Debug\SerenityProject.WindowsForm.exe.config
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\bin\Debug\SerenityProject.WindowsForm.exe
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\bin\Debug\SerenityProject.WindowsForm.pdb
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\bin\Debug\SerenityProject.EntityLayer.dll
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\bin\Debug\SerenityProject.EntityLayer.pdb
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\bin\Debug\SerenityProject.EntityLayer.dll.config
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.csprojAssemblyReference.cache
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.Form1.resources
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.Properties.Resources.resources
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.csproj.GenerateResource.cache
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.csproj.CopyComplete
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.exe
+C:\Users\emirt\source\repos\SerenityProject\SerenityProject.WindowsForm\obj\Debug\SerenityProject.WindowsForm.pdb

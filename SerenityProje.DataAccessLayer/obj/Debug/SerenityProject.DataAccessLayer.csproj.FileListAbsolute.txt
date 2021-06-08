@@ -1,0 +1,15 @@
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\obj\Debug\SerenityProject.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\obj\Debug\SerenityProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\obj\Debug\SerenityProje.DataAccessLayer.dll
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\obj\Debug\SerenityProje.DataAccessLayer.pdb
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\SerenityProje.DataAccessLayer.dll.config
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\SerenityProje.DataAccessLayer.dll
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\SerenityProje.DataAccessLayer.pdb
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\SerenityProject.EntityLayer.dll
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\SerenityProject.EntityLayer.pdb
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\SerenityProject.EntityLayer.dll.config
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emirt\source\repos\SerenityProject\SerenityProje.DataAccessLayer\obj\Debug\SerenityProject.DataAccessLayer.csproj.CopyComplete
